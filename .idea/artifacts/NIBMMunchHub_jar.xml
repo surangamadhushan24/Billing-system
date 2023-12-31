@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NIBMMunchHub:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NIBMMunchHub_jar</output-path>
+    <root id="archive" name="NIBMMunchHub.jar">
+      <element id="module-output" name="NIBMMunchHub" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/protobuf-java-3.19.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jar_files/mysql-connector-java-8.0.30.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
